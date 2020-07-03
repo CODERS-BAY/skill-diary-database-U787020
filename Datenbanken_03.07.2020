@@ -1,0 +1,4 @@
+ER-Modell gezeichnet 
+Textuelle Übersetzung am Beispiel einer Leichtathletik-WM umgesetzt
+Lessons learned: starke/schwache Beziehung nur bei M/N-Beziehung
+Eigene Zeile in textueller Notation nur bei M/N-Beziehung; FK zu 1-Kardinalität
